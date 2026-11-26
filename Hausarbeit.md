@@ -6,7 +6,7 @@
 
 Heute gilt Konrad Zuse als der Erfinder des Computers.
 
-## Die Entwicklungg der Röhren-Computer
+## Die Entwicklung der Röhren-Computer
 
 ## Die Entwicklung der Transistoren
 
